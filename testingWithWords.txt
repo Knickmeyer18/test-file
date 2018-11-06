@@ -6,3 +6,8 @@ Roses are red,
 Violets are blue,
 I don't know GitHub,
 so probably neither do you.
+
+
+#2
+I like to read books.
+I am going to buy a paddle board.
