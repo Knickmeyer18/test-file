@@ -61,7 +61,12 @@ Date: 11-8-2018
 1:00 - practicing regular expressions -- to help better understand splunk searches
 1:57 - google searches about macros and most useful splunk searches
 2:17 - back to analyzing splunk saved search
-
+2:20 - transition to preparing for Splunk presentation
+2:29 - creating my to do list on outlook
+2:42 - typing break
+2:50 - emailed about watching a splunk upgrade / bathroom break
+3:10 - Splunk presentation preparation (scheduling conference room / studying material/ writing notes for what to say)
+4:00 - signing out (splunk meeting got rescheduled for the morning)
 
 
 
