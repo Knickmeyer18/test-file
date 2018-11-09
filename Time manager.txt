@@ -68,5 +68,14 @@ Date: 11-8-2018
 3:10 - Splunk presentation preparation (scheduling conference room / studying material/ writing notes for what to say)
 4:00 - signing out (splunk meeting got rescheduled for the morning)
 
+Day #3
+Date: 11-9-2018
 
-
+9:00 - got ready for splunk upgrade
+9:30 - splunk upgrade meeting, didn't turn out to be a splunk upgrade after all
+10:30 - coffee break / talked to raghu about pyton scripting
+11:00 - bathrrom break
+11:20 - working on splunk stuff and presentation.
+11:47 - downloading notepad++ and organizing desktop
+12:00 - lunch
+1:13  - splunk presentation
