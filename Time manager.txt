@@ -99,3 +99,10 @@ Date: 11/13/2018
 3:00 - back to splunk presentation
 3:52 - reading about Universal or Heavy Forwarder and index clustering
 4:10 - signing out... for now
+4:16 - got to gym downstairs
+4:22 - changed and started working out
+4:52 - walking out the door of the office
+5:45 - arrived home, talked to mom, showered, got my computer glasses
+6:45 - started working --> splunk presentation
+
+
