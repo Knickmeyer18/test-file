@@ -68,5 +68,41 @@ Date: 11-8-2018
 3:10 - Splunk presentation preparation (scheduling conference room / studying material/ writing notes for what to say)
 4:00 - signing out (splunk meeting got rescheduled for the morning)
 
+Day #3
+Date: 11-9-2018
+
+9:00 - got ready for splunk upgrade
+9:30 - splunk upgrade meeting, didn't turn out to be a splunk upgrade after all
+10:30 - coffee break / talked to raghu about pyton scripting
+11:00 - bathrrom break
+11:20 - working on splunk stuff and presentation.
+11:47 - downloading notepad++ and organizing desktop
+12:00 - lunch
+1:13  - splunk presentation
+
+Day #4
+Date: 11/13/2018
+
+8:10 - coffee, check email, eat breakfast, talked to Jaimie about team meeting
+9:00 - email about splunk prezy to erin
+9:09 - organizing email inbox
+9:39 - figuring out how to use SPP calculator
+9:45 - typing
+10:00 - spilled water on myself, had to clean up...
+10:18 - working on splunk presentation
+10:26 - bathroom break
+10:50 - finance talk with arsla
+11:18 - splunk presentation
+12:00 - lunch
+12:45 - back at desk, working on splunk presentation.
+2:00 - splunk upgrade meeting, going through saved searches.
+3:00 - back to splunk presentation
+3:52 - reading about Universal or Heavy Forwarder and index clustering
+4:10 - signing out... for now
+4:16 - got to gym downstairs
+4:22 - changed and started working out
+4:52 - walking out the door of the office
+5:45 - arrived home, talked to mom, showered, got my computer glasses
+6:45 - started working --> splunk presentation
 
 
