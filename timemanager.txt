@@ -1,0 +1,108 @@
+Time Management
+
+Day #1
+Date: 11-7-2018
+
+9:30 - get coffee and set up my desk
+9:46 - check emails
+9:51 - typing practice
+10:06 - finish typing. Configuring monitor layout.
+10:10 - Bathroom break.
+10:20 - back to desk and messing around at desk / facebook.
+10:33 - texting about Belles album
+10:41 - Splunk: eval commands
+10:47 - mess around at desk
+11:10 - talk to Tim
+11:20 - messed around at desk / texted people / walked/ got coffee
+11:30 - typing
+11:44 - playing on my phone
+11:50 - splunking
+11:54 - lunch time
+1:07 - back at desk / talk to amber / txted jason / started cup pong
+1:41 - tenable hwam saved search formatting / analysis
+2:05 - emailed about weekly status report
+2:08 - phone games with orientation group
+2:10 - saved searches analysis
+2:21 - testing ppt on github
+2:30 - phone games
+2:32 - looking up glasses that protect against blue light
+2:42 - talked to amber / bought a pair of glasses
+3:08 - bathroom break
+3:14 - talking to jason and playing on phone
+3:21 - testing this doc on GitHub
+3:25 - this is another test to see if I am using GitHub correctly
+3:39 - trying to merge this branch with the master branch
+3:51 - figured out out to merge a branch into the master branch. Will be trying again at the end of the day.
+3:53 - back to saved searches analysis on Splunk
+4:19 - playing and texting on my phone
+4:21 - water and walking break. and bathroom break. also figuring stuff out woth morgan.
+4:39 - changed phone settings to show warmer colors and not lock so quickly
+4:50 - back to analyzing saved searches
+5:26 - called jason, bathroom break, talked to morgan
+5:35 - back to analyzing saved searches
+6:22 - talked to Arsla
+6:25 - pulled anothe branch to the master branch. Still don't feel comfortable with the process yet.
+6:30 - water break and eating some food.
+6:38 - I think i understand how the github process works, at least at a basic scale on the website.
+6:41 - back to analyzing saved searches.
+7:00 - signing out
+
+Day #2
+Date: 11-8-2018
+
+9:05 - talked to dave, fullfilled trade on fantasy, working on emails.
+9:29 - getting coffee and eating some breakfast and check emails.
+9:53 - typing
+10:16 - starting with splunk study
+10:30 - team meeting
+10:55 - got lunch before next meeting
+11:30 - back to splunk work
+12:00 - lunch and learn meeting
+1:00 - practicing regular expressions -- to help better understand splunk searches
+1:57 - google searches about macros and most useful splunk searches
+2:17 - back to analyzing splunk saved search
+2:20 - transition to preparing for Splunk presentation
+2:29 - creating my to do list on outlook
+2:42 - typing break
+2:50 - emailed about watching a splunk upgrade / bathroom break
+3:10 - Splunk presentation preparation (scheduling conference room / studying material/ writing notes for what to say)
+4:00 - signing out (splunk meeting got rescheduled for the morning)
+
+Day #3
+Date: 11-9-2018
+
+9:00 - got ready for splunk upgrade
+9:30 - splunk upgrade meeting, didn't turn out to be a splunk upgrade after all
+10:30 - coffee break / talked to raghu about pyton scripting
+11:00 - bathrrom break
+11:20 - working on splunk stuff and presentation.
+11:47 - downloading notepad++ and organizing desktop
+12:00 - lunch
+1:13  - splunk presentation
+
+Day #4
+Date: 11/13/2018
+
+8:10 - coffee, check email, eat breakfast, talked to Jaimie about team meeting
+9:00 - email about splunk prezy to erin
+9:09 - organizing email inbox
+9:39 - figuring out how to use SPP calculator
+9:45 - typing
+10:00 - spilled water on myself, had to clean up...
+10:18 - working on splunk presentation
+10:26 - bathroom break
+10:50 - finance talk with arsla
+11:18 - splunk presentation
+12:00 - lunch
+12:45 - back at desk, working on splunk presentation.
+2:00 - splunk upgrade meeting, going through saved searches.
+3:00 - back to splunk presentation
+3:52 - reading about Universal or Heavy Forwarder and index clustering
+4:10 - signing out... for now
+4:16 - got to gym downstairs
+4:22 - changed and started working out
+4:52 - walking out the door of the office
+5:45 - arrived home, talked to mom, showered, got my computer glasses
+6:45 - started working --> splunk presentation
+
+
